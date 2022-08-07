@@ -1,0 +1,60 @@
+.main{
+    background-color: rgb(167, 193, 243);
+    height: 70px;
+    width: 100%;
+}
+
+.link{
+    display: flex;
+    li{
+        list-style: none;
+    }
+}
+
+.navigate-1{
+    margin-left: 25px;
+    margin-top: 20px;
+}
+.navigate-2{
+    margin-left: 40px;
+    margin-top: 22px;
+    margin-right: 470px;
+    font-size: 18px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    a{
+        text-decoration: none;
+        color: black;
+    }
+}
+.navigate-3{
+    margin-left: 239px;
+    margin-top: 15px;
+    margin-right: 70px;
+  
+}
+.navigate-4{
+    margin-top: 21px;
+    margin-left: 20px;
+    a{
+        color: rgb(105, 100, 109);
+    }
+    
+}
+.navigate-5{
+    margin-top: 15px;
+    margin-left: 70px;
+    #btn-3{
+        color: rgb(105, 100, 109);
+    }
+}
+b{
+    position: relative;
+    left: 10px;
+    font-size: 27px;
+    bottom: 5px;
+    font-family: 'Inspiration', cursive;
+}
+
+.navigate-two{
+    margin-inline-end: 0;
+}

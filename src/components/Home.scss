@@ -1,0 +1,77 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    padding: 80px 0px 0 70px;
+    
+}
+p{
+    position: relative;
+    bottom: 40px;
+    left: 290px;
+}
+h2{
+    font-family: cursive;
+    position: relative;
+    top: 5px;
+    font-size: 18px;
+}
+h5{
+    position: relative;
+    top: 7px;
+    font-family: 'Circular-Loom';
+}
+#btn{
+    position: relative;
+    bottom: 20px;
+}
+#btn-2{
+    position: relative;
+    bottom: 20px;
+    left: 120px;
+}
+h1{
+    text-align: center;
+    position: relative;
+    bottom: 40px;
+    font-size: 45px;
+    text-shadow: 2px 2px 4px black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.footer{
+    display: flex;
+    height: 190px;
+    background: linear-gradient(185deg, black, transparent);
+    .company{
+        position: relative;
+    top: 45px;
+    left: 130px;
+    font-size: 20px;
+    }
+    a{
+        text-decoration: none;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+
+}
+h4{
+    position: relative;
+    left: 130px;
+    top: 35px
+}
+
+.connect{
+    #co-h4{
+        top: 70px;
+        position: relative;
+        left: 445px;
+
+    }
+    #icon-p{
+        position: relative;
+        left: 445px;
+    top: 82px;
+    }
+}
